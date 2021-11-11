@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+}
+
+#container-meu{
+    width: 100vw;
+    height: 100vh;
+    background-image: url('https://4k-wallpapers.net/uploads/posts/2021-02/thumbs/1614185673_valley-landscape-mountains-gradient-background-colorful-background.jpg');
+    background-size: cover;
+    
+}
